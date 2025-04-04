@@ -1,0 +1,5 @@
+PORT=3000
+BASE_URL=https://your-ngrok-or-hosted-url.com
+TWILIO_ACCOUNT_SID=your_twilio_sid
+TWILIO_AUTH_TOKEN=your_twilio_auth_token
+TWILIO_PHONE_NUMBER=+1xxxxxxxxxx
